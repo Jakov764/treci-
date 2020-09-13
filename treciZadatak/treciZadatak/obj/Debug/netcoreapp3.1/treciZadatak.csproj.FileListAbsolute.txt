@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\bin\Debug\netcoreapp3.1\treciZadatak.exe
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\bin\Debug\netcoreapp3.1\treciZadatak.deps.json
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\bin\Debug\netcoreapp3.1\treciZadatak.runtimeconfig.json
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\bin\Debug\netcoreapp3.1\treciZadatak.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\bin\Debug\netcoreapp3.1\treciZadatak.dll
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\bin\Debug\netcoreapp3.1\treciZadatak.pdb
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.dll
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.pdb
+C:\Users\Lenovo\source\repos\treciZadatak\treciZadatak\obj\Debug\netcoreapp3.1\treciZadatak.genruntimeconfig.cache
